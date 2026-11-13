@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.melon-card {
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+
+    text-align: center;
+}
